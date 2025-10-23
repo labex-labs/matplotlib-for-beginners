@@ -16,20 +16,20 @@
 
 ## 练习
 
-|   序号 | 名称                          | 难度   | 练习                                                                                                                      |
-|--------|-------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 Matplotlib 安装与导入   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-installation-and-import-596567'>开始实验</a> |
-|      2 | 📖 🆓 Matplotlib 折线图基础   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-basic-line-plots-596564'>开始实验</a>        |
-|      3 | 📖 🆓 Matplotlib 自定义折线图 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-customizing-line-plots-596565'>开始实验</a>  |
-|      4 | 📖 🆓 Matplotlib 条形图       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-bar-charts-596563'>开始实验</a>              |
-|      5 | 📖 🆓 Matplotlib 散点图       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-scatter-plots-596569'>开始实验</a>           |
-|      6 | 📖 🆓 Matplotlib 直方图       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-histograms-596566'>开始实验</a>              |
-|      7 | 📖 🆓 Matplotlib 饼图         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-pie-charts-596568'>开始实验</a>              |
-|      8 | 📖 🆓 Matplotlib 子图创建     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/matplotlib-matplotlib-subplots-creation-596570'>开始实验</a>       |
+|   序号 | 名称                          | 难度   | 练习                                                                                                                                                 |
+|--------|-------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 Matplotlib 安装与导入   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>开始实验</a> |
+|      2 | 🧩 🆓 Matplotlib 折线图基础   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>开始实验</a>        |
+|      3 | 🧩 🆓 Matplotlib 自定义折线图 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>开始实验</a>  |
+|      4 | 🧩 🆓 Matplotlib 条形图       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>开始实验</a>              |
+|      5 | 🧩 🆓 Matplotlib 散点图       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>开始实验</a>           |
+|      6 | 🧩 🆓 Matplotlib 直方图       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-histograms-596566?course=matplotlib-for-beginners'>开始实验</a>              |
+|      7 | 🧩 🆓 Matplotlib 饼图         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>开始实验</a>              |
+|      8 | 🧩 🆓 Matplotlib 子图创建     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/matplotlib-matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>开始实验</a>       |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
