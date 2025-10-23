@@ -16,20 +16,20 @@
 
 ## 演習
 
-|   インデックス | 名前                                        | 難易度   | 練習                                                                                                                        |
-|----------------|---------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Matplotlib のインストールとインポート | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-installation-and-import-596567'>ラボを開始</a> |
-|              2 | 📖 🆓 Matplotlib 基本折れ線グラフ           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-basic-line-plots-596564'>ラボを開始</a>        |
-|              3 | 📖 🆓 Matplotlib 線グラフのカスタマイズ     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-customizing-line-plots-596565'>ラボを開始</a>  |
-|              4 | 📖 🆓 Matplotlib 棒グラフ                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-bar-charts-596563'>ラボを開始</a>              |
-|              5 | 📖 🆓 Matplotlib 散布図                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-scatter-plots-596569'>ラボを開始</a>           |
-|              6 | 📖 🆓 Matplotlib ヒストグラム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-histograms-596566'>ラボを開始</a>              |
-|              7 | 📖 🆓 Matplotlib 円グラフ                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-pie-charts-596568'>ラボを開始</a>              |
-|              8 | 📖 🆓 Matplotlib サブプロットの作成         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/matplotlib-matplotlib-subplots-creation-596570'>ラボを開始</a>       |
+|   インデックス | 名前                                        | 難易度   | 練習                                                                                                                                                   |
+|----------------|---------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Matplotlib のインストールとインポート | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>ラボを開始</a> |
+|              2 | 🧩 🆓 Matplotlib 基本折れ線グラフ           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>ラボを開始</a>        |
+|              3 | 🧩 🆓 Matplotlib 線グラフのカスタマイズ     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>ラボを開始</a>  |
+|              4 | 🧩 🆓 Matplotlib 棒グラフ                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>ラボを開始</a>              |
+|              5 | 🧩 🆓 Matplotlib 散布図                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>ラボを開始</a>           |
+|              6 | 🧩 🆓 Matplotlib ヒストグラム               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-histograms-596566?course=matplotlib-for-beginners'>ラボを開始</a>              |
+|              7 | 🧩 🆓 Matplotlib 円グラフ                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>ラボを開始</a>              |
+|              8 | 🧩 🆓 Matplotlib サブプロットの作成         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>ラボを開始</a>       |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
