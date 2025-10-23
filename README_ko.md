@@ -16,20 +16,20 @@
 
 ## 연습
 
-|   인덱스 | 이름                                 | 난이도   | 연습                                                                                                                       |
-|----------|--------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Matplotlib 설치 및 임포트      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-installation-and-import-596567'>실습 시작</a> |
-|        2 | 📖 🆓 Matplotlib 기본 선 그래프      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-basic-line-plots-596564'>실습 시작</a>        |
-|        3 | 📖 🆓 Matplotlib 선 플롯 사용자 정의 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-customizing-line-plots-596565'>실습 시작</a>  |
-|        4 | 📖 🆓 Matplotlib 막대 차트           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-bar-charts-596563'>실습 시작</a>              |
-|        5 | 📖 🆓 Matplotlib 산점도              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-scatter-plots-596569'>실습 시작</a>           |
-|        6 | 📖 🆓 Matplotlib 히스토그램          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-histograms-596566'>실습 시작</a>              |
-|        7 | 📖 🆓 Matplotlib 파이 차트           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-pie-charts-596568'>실습 시작</a>              |
-|        8 | 📖 🆓 Matplotlib 서브플롯 생성       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/matplotlib-matplotlib-subplots-creation-596570'>실습 시작</a>       |
+|   인덱스 | 이름                                 | 난이도   | 연습                                                                                                                                                  |
+|----------|--------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Matplotlib 설치 및 임포트      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>실습 시작</a> |
+|        2 | 🧩 🆓 Matplotlib 기본 선 그래프      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>실습 시작</a>        |
+|        3 | 🧩 🆓 Matplotlib 선 플롯 사용자 정의 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>실습 시작</a>  |
+|        4 | 🧩 🆓 Matplotlib 막대 차트           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>실습 시작</a>              |
+|        5 | 🧩 🆓 Matplotlib 산점도              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>실습 시작</a>           |
+|        6 | 🧩 🆓 Matplotlib 히스토그램          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-histograms-596566?course=matplotlib-for-beginners'>실습 시작</a>              |
+|        7 | 🧩 🆓 Matplotlib 파이 차트           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>실습 시작</a>              |
+|        8 | 🧩 🆓 Matplotlib 서브플롯 생성       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>실습 시작</a>       |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
