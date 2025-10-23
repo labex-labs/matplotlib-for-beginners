@@ -16,20 +16,20 @@ This comprehensive course covers the fundamental concepts and practical techniqu
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                |
-|---------|------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Matplotlib Installation and Import | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-installation-and-import-596567'>Start Lab</a> |
-|       2 | 📖 🆓 Matplotlib Basic Line Plots        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-basic-line-plots-596564'>Start Lab</a>        |
-|       3 | 📖 🆓 Matplotlib Customizing Line Plots  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-customizing-line-plots-596565'>Start Lab</a>  |
-|       4 | 📖 🆓 Matplotlib Bar Charts              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-bar-charts-596563'>Start Lab</a>              |
-|       5 | 📖 🆓 Matplotlib Scatter Plots           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-scatter-plots-596569'>Start Lab</a>           |
-|       6 | 📖 🆓 Matplotlib Histograms              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-histograms-596566'>Start Lab</a>              |
-|       7 | 📖 🆓 Matplotlib Pie Charts              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-pie-charts-596568'>Start Lab</a>              |
-|       8 | 📖 🆓 Matplotlib Subplots Creation       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-subplots-creation-596570'>Start Lab</a>       |
+|   Index | Name                                     | Difficulty   | Practice                                                                                                                                           |
+|---------|------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Matplotlib Installation and Import | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>Start Lab</a> |
+|       2 | 🧩 🆓 Matplotlib Basic Line Plots        | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>Start Lab</a>        |
+|       3 | 🧩 🆓 Matplotlib Customizing Line Plots  | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>Start Lab</a>  |
+|       4 | 🧩 🆓 Matplotlib Bar Charts              | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>Start Lab</a>              |
+|       5 | 🧩 🆓 Matplotlib Scatter Plots           | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>Start Lab</a>           |
+|       6 | 🧩 🆓 Matplotlib Histograms              | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-histograms-596566?course=matplotlib-for-beginners'>Start Lab</a>              |
+|       7 | 🧩 🆓 Matplotlib Pie Charts              | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>Start Lab</a>              |
+|       8 | 🧩 🆓 Matplotlib Subplots Creation       | Beginner     | <a target='_blank' href='https://labex.io/labs/matplotlib-matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>Start Lab</a>       |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
