@@ -1,39 +1,31 @@
 # Matplotlib para Principiantes
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Matplotlib para Principiantes](https://cover-creator.labex.io/matplotlib-for-beginners.png?lang=es)](https://labex.io/es/courses/matplotlib-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/matplotlib-for-beginners)
+<p align="center">
+  <a href="https://labex.io/es/courses/matplotlib-for-beginners">
+    <img src="https://course-cover.labex.io/matplotlib-for-beginners.png?lang=es" alt="Matplotlib para Principiantes">
+  </a>
+</p>
 
 Este curso completo cubre los conceptos fundamentales y las técnicas prácticas de Matplotlib, la biblioteca esencial de trazado en Python. Aprende a crear varios tipos de gráficos y visualizaciones, incluyendo gráficos de líneas, gráficos de barras, diagramas de dispersión, histogramas, gráficos circulares y subgráficos.
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-whitesmoke?style=for-the-badge&logo=matplotlib)
-![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/matplotlib-for-beginners)
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                        |
-|----------|-------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🧩 🆓 Instalación e Importación de Matplotlib               | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>Iniciar Laboratorio</a> |
-|        2 | 🧩 🆓 Gráficos de Líneas Básicos con Matplotlib             | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>        |
-|        3 | 🧩 🆓 Personalización de Gráficos de Línea con Matplotli... | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>  |
-|        4 | 🧩 🆓 Gráficos de Barras con Matplotlib                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>              |
-|        5 | 🧩 🆓 Gráficos de Dispersión con Matplotlib                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>           |
-|        6 | 🧩 🆓 Histogramas con Matplotlib                            | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-histograms-596566?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>              |
-|        7 | 🧩 🆓 Gráficos Circulares con Matplotlib                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>              |
-|        8 | 🧩 🆓 Creación de Subplots en Matplotlib                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>Iniciar Laboratorio</a>       |
+|   Índice | Nombre                                                | Dificultad   | Práctica                                                                                                                                     |
+|----------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Instalación e Importación de Matplotlib               | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-installation-and-import-596567?course=matplotlib-for-beginners'>Iniciar lab</a> |
+|        2 | Gráficos de Líneas Básicos con Matplotlib             | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-basic-line-plots-596564?course=matplotlib-for-beginners'>Iniciar lab</a>        |
+|        3 | Personalización de Gráficos de Línea con Matplotli... | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-customizing-line-plots-596565?course=matplotlib-for-beginners'>Iniciar lab</a>  |
+|        4 | Gráficos de Barras con Matplotlib                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-bar-charts-596563?course=matplotlib-for-beginners'>Iniciar lab</a>              |
+|        5 | Gráficos de Dispersión con Matplotlib                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-scatter-plots-596569?course=matplotlib-for-beginners'>Iniciar lab</a>           |
+|        6 | Histogramas con Matplotlib                            | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-histograms-596566?course=matplotlib-for-beginners'>Iniciar lab</a>              |
+|        7 | Gráficos Circulares con Matplotlib                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-pie-charts-596568?course=matplotlib-for-beginners'>Iniciar lab</a>              |
+|        8 | Creación de Subplots en Matplotlib                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/matplotlib-subplots-creation-596570?course=matplotlib-for-beginners'>Iniciar lab</a>       |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [Matplotlib Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Matplotlib Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Matplotlib Tutoriales Gratuitos](https://github.com/labex-labs/matplotlib-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
